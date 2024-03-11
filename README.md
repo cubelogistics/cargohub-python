@@ -1,1 +1,1 @@
-<img src="https://github.com/cargohubAI/cargohub-python/blob/main/Pictures/cargohub_logo.svg" alt="drawing" width="500"/>
+<img src="https://github.com/cubelogistics/cube-python/blob/main/Pictures/cube_logo.svg" alt="drawing" width="500"/>
